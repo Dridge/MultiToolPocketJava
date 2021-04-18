@@ -1,4 +1,4 @@
-package java.reflection;
+package reflection;
 
 public class RetrieveClassDetails {
 }

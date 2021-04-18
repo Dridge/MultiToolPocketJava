@@ -1,4 +1,4 @@
-package java.annotations;
+package annotations;
 
 public class CustomAnnotations {
 }

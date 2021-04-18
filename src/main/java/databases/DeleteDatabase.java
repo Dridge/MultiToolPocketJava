@@ -1,4 +1,4 @@
-package java.databases;
+package databases;
 
 public class DeleteDatabase {
 }

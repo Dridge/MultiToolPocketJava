@@ -1,4 +1,4 @@
-package java.website;
+package website;
 
 public class CreateJavaServerFaces {
 }

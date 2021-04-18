@@ -1,4 +1,4 @@
-package java.collections;
+package collections;
 
 public class CollectionToArray {
 }

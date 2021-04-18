@@ -1,4 +1,4 @@
-package java.serialization;
+package serialization;
 
 public class StoreCurrentStateToDatabase {
 }

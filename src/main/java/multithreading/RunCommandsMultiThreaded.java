@@ -1,4 +1,4 @@
-package java.multithreading;
+package multithreading;
 
 public class RunCommandsMultiThreaded {
 }

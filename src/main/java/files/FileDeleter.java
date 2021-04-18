@@ -1,4 +1,4 @@
-package java.files;
+package files;
 
 public class FileDeleter {
 }
